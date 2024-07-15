@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GetInput4": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7191",
+      "launchBrowser": false
+    }
+  }
+}
